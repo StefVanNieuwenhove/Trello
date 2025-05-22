@@ -2,14 +2,12 @@
 /shelf/
 /workspace.xml
 # Rider ignored files
-/projectSettingsUpdater.xml
+/.idea.Trello.iml
 /modules.xml
-/.idea.server.iml
 /contentModel.xml
+/projectSettingsUpdater.xml
 # Editor-based HTTP Client requests
 /httpRequests/
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
-
-./idea
