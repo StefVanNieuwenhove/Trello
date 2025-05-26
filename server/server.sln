@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trello.Server.Api", "Trello.Server.Api\Trello.Server.Api.csproj", "{1CF30FC2-C7EE-4A33-A2E1-ED27A7D14605}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trello.Server.Core", "Trello.Server.Core\Trello.Server.Core.csproj", "{46836608-6CC9-419D-B68E-F778A408EF0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trello.Server.Infra", "Trello.Server.Infra\Trello.Server.Infra.csproj", "{637D5EF5-E34F-4456-A825-5597F5714D61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trello.Server.Service", "Trello.Server.Service\Trello.Server.Service.csproj", "{7338D1FF-271F-4BA2-BCFF-F40E6F8512D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CF30FC2-C7EE-4A33-A2E1-ED27A7D14605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CF30FC2-C7EE-4A33-A2E1-ED27A7D14605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CF30FC2-C7EE-4A33-A2E1-ED27A7D14605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CF30FC2-C7EE-4A33-A2E1-ED27A7D14605}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46836608-6CC9-419D-B68E-F778A408EF0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46836608-6CC9-419D-B68E-F778A408EF0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46836608-6CC9-419D-B68E-F778A408EF0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46836608-6CC9-419D-B68E-F778A408EF0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{637D5EF5-E34F-4456-A825-5597F5714D61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{637D5EF5-E34F-4456-A825-5597F5714D61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{637D5EF5-E34F-4456-A825-5597F5714D61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{637D5EF5-E34F-4456-A825-5597F5714D61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7338D1FF-271F-4BA2-BCFF-F40E6F8512D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7338D1FF-271F-4BA2-BCFF-F40E6F8512D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7338D1FF-271F-4BA2-BCFF-F40E6F8512D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7338D1FF-271F-4BA2-BCFF-F40E6F8512D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

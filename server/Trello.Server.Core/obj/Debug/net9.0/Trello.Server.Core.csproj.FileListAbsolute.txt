@@ -1,0 +1,13 @@
+/Users/stefvannieuwenhove/Documents/projects/Trello/server/Trello.Server.Core/bin/Debug/net9.0/Trello.Server.Core.deps.json
+/Users/stefvannieuwenhove/Documents/projects/Trello/server/Trello.Server.Core/bin/Debug/net9.0/Trello.Server.Core.dll
+/Users/stefvannieuwenhove/Documents/projects/Trello/server/Trello.Server.Core/bin/Debug/net9.0/Trello.Server.Core.pdb
+/Users/stefvannieuwenhove/Documents/projects/Trello/server/Trello.Server.Core/obj/Debug/net9.0/Trello.Server.Core.csproj.AssemblyReference.cache
+/Users/stefvannieuwenhove/Documents/projects/Trello/server/Trello.Server.Core/obj/Debug/net9.0/Trello.Server.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefvannieuwenhove/Documents/projects/Trello/server/Trello.Server.Core/obj/Debug/net9.0/Trello.Server.Core.AssemblyInfoInputs.cache
+/Users/stefvannieuwenhove/Documents/projects/Trello/server/Trello.Server.Core/obj/Debug/net9.0/Trello.Server.Core.AssemblyInfo.cs
+/Users/stefvannieuwenhove/Documents/projects/Trello/server/Trello.Server.Core/obj/Debug/net9.0/Trello.Server.Core.csproj.CoreCompileInputs.cache
+/Users/stefvannieuwenhove/Documents/projects/Trello/server/Trello.Server.Core/obj/Debug/net9.0/Trello.Server.Core.sourcelink.json
+/Users/stefvannieuwenhove/Documents/projects/Trello/server/Trello.Server.Core/obj/Debug/net9.0/Trello.Server.Core.dll
+/Users/stefvannieuwenhove/Documents/projects/Trello/server/Trello.Server.Core/obj/Debug/net9.0/refint/Trello.Server.Core.dll
+/Users/stefvannieuwenhove/Documents/projects/Trello/server/Trello.Server.Core/obj/Debug/net9.0/Trello.Server.Core.pdb
+/Users/stefvannieuwenhove/Documents/projects/Trello/server/Trello.Server.Core/obj/Debug/net9.0/ref/Trello.Server.Core.dll

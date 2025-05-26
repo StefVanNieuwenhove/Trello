@@ -1,0 +1,3 @@
+dotnet ef migrations add InitalCreate --project Trello.Server.Infra --startup-project Trello.Server.Api
+
+dotnet ef database update --project Trello.Server.Infra --startup-project Trello.Server.Api 
